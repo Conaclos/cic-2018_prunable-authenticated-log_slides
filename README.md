@@ -21,7 +21,7 @@ The code is licensed under [GPLv3][gplv3].
 The content is licensed under [Creative Commons CC-BY 4.0][ccby4].
 
 
-[cic2018]: http://www.sis.pitt.eodu/lersais/cic/2018
+[cic2018]: http://www.sis.pitt.edu/lersais/cic/2018/index.html
 [ieeepaper]: https://ieeexplore.ieee.org/abstract/document/8537829
 [halpaper]: https://hal.inria.fr/hal-01932528
 [mtheme]: https://github.com/matze/mtheme
